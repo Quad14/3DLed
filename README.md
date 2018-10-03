@@ -10,3 +10,5 @@ The arduino script currently turns red for heating and turns bright blue to repr
 Tutorial:
 In this example I used and arduino nano with a individually addressable led strip attached, strawberry perl, and Simplify 3D.
 1. Cut the strip to the length that you would prefer and count the number of leds on that strip.
+2. Upload the arduino code to the nano. Make changes to the code as you see fit such as pinout and color.
+
