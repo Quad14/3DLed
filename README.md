@@ -1,4 +1,4 @@
-# 3DLed
+# 3DLed for Valparaiso University Accelerated 3D Printing Lab
 ![Alt text](Pic1.jpg?raw=true "Title")
 Displays the print progress on an led strip.
 This uses an arduino nano to read the pwm signal of the fan pin on the 3d printer controller (Duet Wifi) and based on that value it sets the leds
