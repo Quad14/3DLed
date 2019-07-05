@@ -8,7 +8,7 @@ The Perl script is adapted from here: https://hackaday.com/2016/07/20/3d-printer
 The arduino script currently turns red for heating and turns bright blue to represent an increase. Default is light blue.
 
 Tutorial:
-In this example I used and arduino nano with a individually addressable led strip attached, strawberry perl, and Simplify 3D.
+In this example I used an arduino nano with a individually addressable led strip attached, strawberry perl, and Simplify 3D.
 1. Cut the strip to the length that you would prefer and count the number of leds on that strip. Default in the arduino code is 45 leds.
 2. Upload the arduino code to the nano. Make changes to the code as you see fit such as pinout and color.
 3. Connect arduino pin A4 to the positive of an empty fan pin and the corresponding ground to ground.
