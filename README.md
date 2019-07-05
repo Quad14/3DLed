@@ -5,7 +5,7 @@ This is done by using an arduino nano to read the pwm signal from the fan pin of
 The perl script does post processing on the gcode file from the slicer and adds in the commands to
 change the fan pins PWM. The Perl script is adapted from here: https://hackaday.com/2016/07/20/3d-printering-g-code-post-processing-with-perl/
 
-The arduino script currently turns red for heating and turns bright blue to represent an increase. Default is light blue.
+The arduino script currently turns red for heating and turns each Led yellow for each increase in percentage complete.
 ==========================================================================================================================================
 Tutorial:
 Material List:
